@@ -1,0 +1,42 @@
+small {
+    display: block;
+    text-align: center;
+}
+
+td[colspan="7"] {
+    text-align: center;
+}
+
+.banner-ungu {
+    text-align: center;
+    background-color: #3f1d5e;
+    padding: 15px;
+    color: white;
+}
+
+.banner-ungu a {
+    color: #93c5fd;
+}
+
+.kotak-laporan {
+    border: 2px solid #3f1d5e; 
+    padding: 15px;
+    margin-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: none; 
+}
+
+th {
+    background-color: #f2f2f2;
+    color: black;
+}
